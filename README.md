@@ -1,3 +1,3 @@
 # Introduktion till git
 
-Min första projekt för skolan
+Min första projekt för skolan.

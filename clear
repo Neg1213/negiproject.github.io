@@ -1,0 +1,17 @@
+[33mcommit 1a5c8ad2a7125203a7947b4c2d57375fa574064d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: negar nahvi <negnarse@gmail.com>
+Date:   Sun Sep 22 19:45:24 2024 +0200
+
+    add index
+
+ index.html | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit 00cd3e7aee69fd8e4b4decacaa15fc3a4355bd2d[m
+Author: negar nahvi <negnarse@gmail.com>
+Date:   Sun Sep 22 19:35:22 2024 +0200
+
+    Initial commit
+
+ README.md | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
